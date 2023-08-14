@@ -1,2 +1,0 @@
-- clé ouvre passage -> OK
-- murs piégés
